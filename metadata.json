@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Project Management Dashboard",
+  "description": "High-performance project management dashboard inspired by Linear, Trello, and Asana with Kanban boards, analytics, sprint tracking, and team collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
